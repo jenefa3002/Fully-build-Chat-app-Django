@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8bc01e66-e9d0-494c-8a74-460ffeb9530b)
+
 # GroupChat
 This is my another vacation project which is group chatting website.This website is based on Django python web framework and application of Websockets.Websockets are implemented with Django using django-channels and channel-redis.This website is deployed on Heroku with AWS S3 (Amazon Web Services) for storing user files.  
 
